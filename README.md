@@ -4,6 +4,16 @@ uRL: https://api.econxn.id/v1/couriers/
 # Deskripsi
 API ini digunakan untuk mengecek status pengiriman, ongkos kirim dan kebutuhan lainnya diberbagai jasa ekspedisi lokal dan internasional.
 
+# Fitur
+- Cek daftar provinsi yang ada di Indonesia.
+- Cek daftar kota/kabupaten yang ada di Indonesia.
+- Cek daftar kecamatan yang ada di Indonesia.
+- Cek tarif pengiriman (ongkos kirim) dari dan ke kecamatan tujuan tertentu.
+- Cek daftar/nama kota yang mendukung pengiriman internasional.
+- Cek daftar/nama negara tujuan pengiriman internasional.
+- Cek tarif pengiriman (ongkos kirim) internasional dari kota-kota di Indonesia ke negara tujuan di seluruh dunia.
+- Cek informasi nilai tukar rupiah terhadap US dollar.
+
 # Daftar Ekspedisi:
 - Jalur Nugraha Ekakurir (JNE)
 - POS Indonesia (POS)
